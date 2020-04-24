@@ -10,7 +10,7 @@ ETHMail supports ENS names.
 
 You can send emails to someensname@ethmail.cc and the mail will be routed to mailbox of address to which this name resolves.
 
-You can send me an email to [xunkulapchatal@ethmail.cc](mailto:xunkulapchatal@ethmail.cc) and it will be routed to 0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc.
+You can send me an email to [xunkulapchvatal@ethmail.cc](mailto:xunkulapchvatal@ethmail.cc) and it will be routed to 0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc.
 
 ### Support or Contact
 
