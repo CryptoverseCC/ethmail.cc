@@ -1,10 +1,44 @@
 ## Welcome to ETHMail
 
-### Login via Ethereum address
+### View email in the browser
 
-Login to your email at [https://web.ethmail.cc/](https://web.ethmail.cc/)
+Login to your mailbox at [https://web.ethmail.cc/](https://web.ethmail.cc/)
 
-### ENS names
+### Receive/Send email on mobile phone
+
+You can access your mailbox on any device with classic email applications (eg. Gmail app)
+
+First you need to generate access key. 
+
+  1. To do this go to [https://auth.cryptoverse.cc/keys](https://auth.cryptoverse.cc/keys) and login using your Ethereum Wallet.
+  2. Generate new key by giving it a name and signing a message with your private key.
+  3. Copy the key to your clipboard
+
+Second you need to setup you applciation to access ETHMail server. 
+
+  1. Access you applciation settings
+  2. Set incoming server settings
+```
+username: 0xYourEtheremAddress
+password: the-key-you-generated-in-first-part
+server: ethmail.cc
+port: 143
+```
+  3. Set incoming server settings
+```
+username: 0xYourEtheremAddress
+password: the-key-you-generated-in-first-part
+server: ethmail.cc
+port: 587
+```
+  4. Save settings
+
+
+For Gmail the settings looks like this:
+![---](/images/gmail.in.jpg "Incoming mail")
+![---](/images/gmail.out.jpg "Outgoing mail")
+
+### Use ENS names to contact people
 
 ETHMail supports ENS names. 
 
