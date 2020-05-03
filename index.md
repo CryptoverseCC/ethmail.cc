@@ -38,8 +38,10 @@ port: 587
 4. Save settings
 
 For Gmail the settings looks like this:
-![---](/images/gmail.in.a.jpg "Incoming mail")
-![---](/images/gmail.out.a.jpg "Outgoing mail")
+
+| Incoming mail                                  | Outgoing mail                                   |
+| ---------------------------------------------- | ----------------------------------------------- |
+| ![---](/images/gmail.in.a.jpg "Incoming mail") | ![---](/images/gmail.out.a.jpg "Outgoing mail") |
 
 ### Use ENS names to contact people
 
