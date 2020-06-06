@@ -1,6 +1,6 @@
 # ETHMail
 
-- [Login in to ETHMail](https://web.ethmail.cc/)
+- [Log in to ETHMail](https://web.ethmail.cc/)
 
 * [How To's](./howto.html)
 * [FAQ](./faq.html)
