@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: ETHMail
+description: Email services for Ethereum community
+logo: /images/logo.svg

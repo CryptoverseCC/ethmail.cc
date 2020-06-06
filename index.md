@@ -1,58 +1,39 @@
-## Welcome to ETHMail
+# ETHMail
 
-### View email in the browser
+- [How To's](./howto.html)
+- [FAQ](./faq.html)
 
-Login to your mailbox at [https://web.ethmail.cc/](https://web.ethmail.cc/)
+## What is ETHMail?
 
-### Receive/Send email on mobile phone
+ETHMail is an email hosting service. It providers mailboxes for all people who have Ethereum wallet.
 
-You can access your mailbox on any device with classic email applications (eg. Gmail app)
+## Why?
 
-First you need to generate access key.
+Because we need a way to leave messages for people who we don't know anything about except for their Ethereum address.
 
-1. To do this go to [https://auth.cryptoverse.cc/keys](https://auth.cryptoverse.cc/keys) and login using your Ethereum Wallet.
-2. Generate new key by giving it a name and signing a message with your private key.
-3. Copy the key to your clipboard
+And it needs to be simple.
 
-Second you need to setup you applciation to access ETHMail server.
+## How I can start using ETHMail?
 
-1. Access you applciation settings
-2. Set incoming server settings
+It depends: Do you want to send a message to someone or check if anyone left a message for you?
 
-```
-username: 0xYourEtheremAddress
-password: the-key-you-generated-in-first-part
-server: ethmail.cc
-port: 143
-```
+### Send email to Ethereum address
 
-3. Set incoming server settings
+You can just go to your gmail/yahoo/hotmail/etc account and just send normal email to `[ETH address]@ethmail.cc` (example `0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc`)
 
-```
-username: 0xYourEtheremAddress
-password: the-key-you-generated-in-first-part
-server: ethmail.cc
-port: 587
-```
+#### Supported email addresses
 
-4. Save settings
+- [ETH address]@ethmail.cc
+- [ENS name]@ethmail.cc
+- [UnstoppableDomain]@unstoppable.email
 
-For Gmail the settings looks like this:
+### View your ETHMail inbox
 
-| Incoming mail                                  | Outgoing mail                                   |
-| ---------------------------------------------- | ----------------------------------------------- |
-| ![---](/images/gmail.in.a.jpg "Incoming mail") | ![---](/images/gmail.out.a.jpg "Outgoing mail") |
+The easiest way is to login using your Ethereum wallet at [web.ethmail.cc](https://web.ethmail.cc)
 
-### Use ENS names to contact people
+## Contact
 
-ETHMail supports ENS names.
-
-You can send emails to someensname@ethmail.cc and the mail will be routed to mailbox of address to which this name resolves.
-
-You can send an email to [xunkulapchvatal@ethmail.cc](mailto:xunkulapchvatal@ethmail.cc), https://app.ens.domains/name/xunkulapchvatal.eth and it will be routed to 0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc.
-
-### Support or Contact
-
-You can contact us at [https://community.cryptoverse.cc/](https://community.cryptoverse.cc/) and [0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc](mailto:0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc)
-
-Issue can be reported at [https://github.com/CryptoverseCC/ethmail.cc/issues](https://github.com/CryptoverseCC/ethmail.cc/issues)
+- Community forum [https://community.cryptoverse.cc/](https://community.cryptoverse.cc/)
+- Email: [0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc](mailto:0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc)
+- Email [xunkulapchvatal@ethmail.cc](mailto:xunkulapchvatal@ethmail.cc)
+- Github Issues [https://github.com/CryptoverseCC/ethmail.cc/issues](https://github.com/CryptoverseCC/ethmail.cc/issues)
