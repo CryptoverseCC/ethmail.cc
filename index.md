@@ -1,7 +1,9 @@
 # ETHMail
 
-- [How To's](./howto.html)
-- [FAQ](./faq.html)
+- [Login in to ETHMail](https://web.ethmail.cc/)
+
+* [How To's](./howto.html)
+* [FAQ](./faq.html)
 
 ## What is ETHMail?
 
