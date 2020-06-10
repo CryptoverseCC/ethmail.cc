@@ -6,7 +6,7 @@ Underneath ETHMail is a collection of standard technologies augmented with a bit
 
 In technical terms it's SMTP/IMAP (http://www.postfix.org/, https://www.dovecot.org/) server with RoundCube (https://roundcube.net/) as a web interface and cryptoauth.io as SSO/Identity provider.
 
-There are no blockchain complements except for ENS/UnstoppableDomain name resolution.
+There are no blockchain components except for ENS/UnstoppableDomain name resolution.
 
 In the future ETHMail will implement many more features that depend on smart contracts and other decentralized technologies.
 
