@@ -39,3 +39,6 @@ The easiest way is to login using your Ethereum wallet at [web.ethmail.cc](https
 - Email: [0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc](mailto:0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc)
 - Email [xunkulapchvatal@ethmail.cc](mailto:xunkulapchvatal@ethmail.cc)
 - Github Issues [https://github.com/CryptoverseCC/ethmail.cc/issues](https://github.com/CryptoverseCC/ethmail.cc/issues)
+
+
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="0a4711c5-2000-4e93-a10d-8902e9770b1d";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
