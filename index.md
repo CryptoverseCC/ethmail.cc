@@ -7,7 +7,7 @@
 
 ## What is ETHMail?
 
-ETHMail is an email hosting service. It providers mailboxes for all people who have Ethereum wallet.
+ETHMail is an email hosting service. It provides mailboxes for all people who have Ethereum wallet.
 
 ## Why?
 
