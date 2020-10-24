@@ -16,26 +16,28 @@ First you need to generate access key.
 
 Second you need to setup you applciation to access ETHMail server.
 
-1. Access you applciation settings
-2. Set incoming server settings
+- Access you applciation settings
+- Set incoming (IMAP) server settings
 
 ```
 username: 0xYourEtheremAddress
 password: the-key-you-generated-in-first-part
 server: ethmail.cc
 port: 143
+security: STARTTLS
 ```
 
-3. Set incoming server settings
+- Set outgoing (SMTP) server settings
 
 ```
 username: 0xYourEtheremAddress
 password: the-key-you-generated-in-first-part
 server: ethmail.cc
 port: 587
+security: STARTTLS
 ```
 
-4. Save settings
+- Save settings
 
 For Gmail the settings looks like this:
 
