@@ -4,6 +4,7 @@
 
 * [How To's](./howto.html)
 * [FAQ](./faq.html)
+* [Pricing (starting 15th of July 2021)](https://www.notion.so/Pricing-35df94690aff475dabcf89966ea73020)
 
 ## What is ETHMail?
 
@@ -32,11 +33,12 @@ You can just go to your gmail/yahoo/hotmail/etc account and just send normal ema
 ### View your ETHMail inbox
 
 The easiest way is to login using your Ethereum wallet at [web.ethmail.cc](https://web.ethmail.cc)
+alternatively you can use [beta.ethmail.cc](https://beta.ethmail.cc), it has support for more wallets.
 
 ## Contact
 
 - Community forum [https://community.cryptoverse.cc/](https://community.cryptoverse.cc/)
-- Email: [0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc](mailto:0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc)
+- Email [0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc](mailto:0x6Be450972b30891B16c8588DcBc10c8c2aEf04da@ethmail.cc)
 - Email [xunkulapchvatal@ethmail.cc](mailto:xunkulapchvatal@ethmail.cc)
 - Github Issues [https://github.com/CryptoverseCC/ethmail.cc/issues](https://github.com/CryptoverseCC/ethmail.cc/issues)
 
