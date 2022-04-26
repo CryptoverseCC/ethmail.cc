@@ -10,7 +10,7 @@ You can access your mailbox on any device with classic email applications (eg. G
 
 First you need to generate access key.
 
-1. To do this go to [https://auth.cryptoverse.cc/keys](https://auth.cryptoverse.cc/keys) and login using your Ethereum Wallet.
+1. To do this go to [https://keys.cryptoverse.cc/keys](https://keys.cryptoverse.cc/keys) and login using your Ethereum Wallet.
 2. Generate new key by giving it a name and signing a message with your private key.
 3. Copy the key to your clipboard
 
